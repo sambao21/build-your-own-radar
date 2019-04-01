@@ -212,21 +212,37 @@ body {
         &.first {
           fill: $green;
           stroke: none;
+          stroke-width: 3;
         }
 
         &.second {
           fill: $blue;
           stroke: none;
+          stroke-width: 3;
         }
 
         &.third {
           fill: $orange;
           stroke: none;
+          stroke-width: 3;
         }
 
         &.fourth {
           fill: $violet;
           stroke: none;
+          stroke-width: 3;
+        }
+
+        &.maturity1 {
+          stroke: black;
+        }
+
+        &.maturity2 {
+          stroke: white;
+        }
+        
+        &.maturity3 {
+          stroke: red;
         }
       }
 
