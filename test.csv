@@ -1,5 +1,5 @@
-name,ring,quadrant,isNew,description  
-Composer,hot,tools,TRUE,"Although the idea of dependency management ..."  
-Canary builds,cold,techniques,FALSE,"Many projects have external code dependencies ..."  
-Apache Kylin,warm,platforms,TRUE,"Apache Kylin is an open source analytics solution ..."  
-JSF,hot,languages & frameworks,FALSE,"We continue to see teams run into trouble using JSF ..."  
+name,ring,quadrant,isNew,description,maturityLevel
+Composer,hot,tools,TRUE,"Although the idea of dependency management ...",1
+Canary builds,warm,techniques,FALSE,"Many projects have external code dependencies ...",2
+Apache Kylin,cold,platforms,TRUE,"Apache Kylin is an open source analytics solution ...",3 
+JSF,hot,languages & frameworks,FALSE,"We continue to see teams run into trouble using JSF ...",1
