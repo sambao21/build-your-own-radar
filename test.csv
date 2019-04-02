@@ -13,13 +13,13 @@ CI,hot,techniques & patterns,TRUE,"...",3
 CD,hot,techniques & patterns,TRUE,"...",3
 Spinnaker,hot,tools,TRUE,"...",3
 Open API,hot,techniques & patterns,TRUE,"..."3
-MySQL,hot,platform,TRUE,"...",4
+MySQL,hot,platforms,TRUE,"...",4
 Low Latency Processing,hot,techniques & patterns,TRUE,"...",2
-Transient Clusters,warm,platform,TRUE,"...",1
-Queue Isolation,warm,platform,TRUE,"...",2
-CDH Upgrades,warm,platform,TRUE,"...",2
+Transient Clusters,warm,platforms,TRUE,"...",1
+Queue Isolation,warm,platforms,TRUE,"...",2
+CDH Upgrades,warm,platforms,TRUE,"...",2
 Kill ACDC,warm,tools,TRUE,"...",1
 Replace Oozie,cold,tools,TRUE,"...",1
 Kill CHOPs,warm,tools,TRUE,"...",1
 Kill Chef,cold,tools,TRUE,"...",1
-AWS/Public Cloud,hot,platform,TRUE,"...",3
+AWS/Public Cloud,hot,platforms,TRUE,"...",3
