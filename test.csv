@@ -1,5 +1,25 @@
 name,ring,quadrant,isNew,description,maturityLevel
-Composer,hot,tools,TRUE,"Although the idea of dependency management ...",1
-Canary builds,warm,techniques,FALSE,"Many projects have external code dependencies ...",2
-Apache Kylin,cold,platforms,TRUE,"Apache Kylin is an open source analytics solution ...",3 
-JSF,hot,languages & frameworks,FALSE,"We continue to see teams run into trouble using JSF ...",1
+Multi-cluster,hot,tools,TRUE,"...",2
+Security,hot,techniques & patterns,TRUE,"...",2
+Kubernetes,cold,platforms,TRUE,"...",1
+Golang,cold,languages & frameworks,TRUE,"...",2
+Web SDK,warm,languages & frameworks,TRUE,"Ruby/Rails development",4
+Services SDK,warm,languages & frameworks,TRUE,"Beadledom development",3
+Service Identity,hot,techniques & patterns,TRUE,"...",2
+Web UI SDK,cold,languages & frameworks,TRUE,"Terra development",4
+Web UI SDK adoption,cold,languages & frameworks,TRUE,"Terra adoption aka blue_steel deprecation",2
+Service to service authorization,hot,techniques & patterns,TRUE,"...",2
+CI,hot,techniques & patterns,TRUE,"...",3
+CD,hot,techniques & patterns,TRUE,"...",3
+Spinnaker,hot,tools,TRUE,"...",3
+Open API,hot,techniques & patterns,TRUE,"..."3
+MySQL,hot,platform,TRUE,"...",4
+Low Latency Processing,hot,techniques & patterns,TRUE,"...",2
+Transient Clusters,warm,platform,TRUE,"...",1
+Queue Isolation,warm,platform,TRUE,"...",2
+CDH Upgrades,warm,platform,TRUE,"...",2
+Kill ACDC,warm,tools,TRUE,"...",1
+Replace Oozie,cold,tools,TRUE,"...",1
+Kill CHOPs,warm,tools,TRUE,"...",1
+Kill Chef,cold,tools,TRUE,"...",1
+AWS/Public Cloud,hot,platform,TRUE,"...",3
