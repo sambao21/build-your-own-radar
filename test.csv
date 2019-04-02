@@ -1,9 +1,9 @@
 name,ring,quadrant,isNew,description,maturityLevel
 Multi-cluster,hot,tools,TRUE,"...",2
-Security,hot,techniques & patterns,TRUE,"...",2
-Kubernetes,cold,platforms,TRUE,"...",1
-Golang,cold,languages & frameworks,TRUE,"...",2
 Web SDK,warm,languages & frameworks,TRUE,"Ruby/Rails development",4
+Kubernetes,cold,platforms,TRUE,"...",1
+Security,hot,techniques & patterns,TRUE,"...",2
+Golang,cold,languages & frameworks,TRUE,"...",2
 Services SDK,warm,languages & frameworks,TRUE,"Beadledom development",3
 Service Identity,hot,techniques & patterns,TRUE,"...",2
 Web UI SDK,cold,languages & frameworks,TRUE,"Terra development",4
