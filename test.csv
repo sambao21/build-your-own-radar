@@ -23,3 +23,4 @@ Replace Oozie,cold,tools,TRUE,"...",1
 Kill CHOPs,warm,tools,TRUE,"...",1
 Kill Chef,cold,tools,TRUE,"...",1
 AWS/Public Cloud,hot,platforms,TRUE,"...",3
+AWS OpenJDK Corretto,cold,languages & frameworks,TRUE,"An option move away from Oracle JDK and AdoptOpenJDK that big Cerner is pushing for",1
